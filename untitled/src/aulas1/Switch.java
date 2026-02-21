@@ -1,3 +1,5 @@
+package aulas1;
+
 public class Switch {
     static void main(String[] args) {
         byte DiasUteis = 5;

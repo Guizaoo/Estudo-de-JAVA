@@ -1,3 +1,5 @@
+package aulas1;
+
 public class atribuicao {
     static void main(String[] args) {
 

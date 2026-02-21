@@ -1,3 +1,5 @@
+package aulas1;
+
 public class EstruturaDeRepeticao {
     static void main(String[] args) {
         int count = 0;

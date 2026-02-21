@@ -1,3 +1,5 @@
+package aulas1;
+
 public class Operadorternario {
     static void main(String[] args) {
 

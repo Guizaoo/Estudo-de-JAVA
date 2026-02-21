@@ -1,3 +1,5 @@
+package aulas1;
+
 public class IfElse {
     static void main(String[] args) {
        double media = 1;
