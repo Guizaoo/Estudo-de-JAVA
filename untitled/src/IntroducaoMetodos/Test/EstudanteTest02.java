@@ -3,12 +3,10 @@ package IntroducaoMetodos.Test;
 import IntroducaoMetodos.Dominio.Estudante;
 import IntroducaoMetodos.Dominio.ImpressoraEstudante;
 
-public class EstudanteTest01 {
-    static void main() { // 2 variveis de ref
+public class EstudanteTest02 {
+    static void main(String[] args) {
         Estudante estudante01 = new Estudante();
         Estudante estudante02 = new Estudante();
-
-        ImpressoraEstudante impressora = new ImpressoraEstudante();
 
 
         estudante01.nome = "Guizu";
@@ -19,10 +17,8 @@ public class EstudanteTest01 {
         estudante02.idade = 23;
         estudante02.sexo = 'F';
 
-        impressora.imprimir(estudante01);
-        impressora.imprimir(estudante02);
-
-
-
+        estudante01.imprime();
+        System.out.println("-");
+        estudante02.imprime();
     }
 }
