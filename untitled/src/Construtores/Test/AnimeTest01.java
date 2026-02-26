@@ -1,12 +1,10 @@
 package Construtores.Test;
 
-import SobrecargaDeMetodos.Dominio.Anime;
+import Construtores.Dominio.Anime;
 
-public class Test {
+public class AnimeTest01 {
     static void main(String[] args) {
-        Anime anime = new Anime();
-
-        anime.inti("TV",12 ,"Alucard", "Anime");
+        Anime anime = new Anime("Vilante saga","TV",12 ,"Alucard", "Estudio guible");
         anime.imprime();
 
 
