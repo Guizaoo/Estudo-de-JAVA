@@ -5,9 +5,9 @@ import java.util.Scanner;
 
 /**
  * IMPORTANT: 
- *      O nome da classe deve ser "Execicio04.Main" para que a sua solução execute
- *      Class name must be "Execicio04.Main" for your solution to execute
- *      El nombre de la clase debe ser "Execicio04.Main" para que su solución ejecutar
+ *      O nome da classe deve ser "Execicio04.Execicio05.Execicio06.Desafios.Main" para que a sua solução execute
+ *      Class name must be "Execicio04.Execicio05.Execicio06.Desafios.Main" for your solution to execute
+ *      El nombre de la clase debe ser "Execicio04.Execicio05.Execicio06.Desafios.Main" para que su solución ejecutar
  */
 public class Main {
 
