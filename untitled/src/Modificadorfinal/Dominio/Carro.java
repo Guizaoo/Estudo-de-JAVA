@@ -4,6 +4,11 @@ public class Carro {
 
     private String nome;
     public static final double VELOCIADE_LIMITE = 250; // constante
+    public final Comprador COMPRADOR = new Comprador();
+
+    public final void imprime(){
+        System.out.println(this.nome);
+    }
 
     public String getNome() {
         return nome;
